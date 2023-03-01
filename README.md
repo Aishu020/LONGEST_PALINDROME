@@ -2,9 +2,9 @@
 
 PROBLEM STATEMENT:
 
-The head of the linked list contains an unique integer, while nums is a subset on linked list values. The output  needs to be a number of connected components in nums where two values are connected if they appear  consecutively in the linked list.
+Find the longest palindrome from the given string. Palindrome is a word, phrase, or sequence that reads the  same backwards as forwards, e.g. madam, civic, radar
 
-![image](https://user-images.githubusercontent.com/85669685/222213404-3b880d1c-6c83-4c64-975e-d97c82f20b41.png)
+![image](https://user-images.githubusercontent.com/85669685/222218325-94da97b0-9051-4a15-a2c6-c9b9e139f932.png)
 
 Approching the problem by c++ programming.
 
